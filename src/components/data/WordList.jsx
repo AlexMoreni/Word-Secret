@@ -1,0 +1,18 @@
+export const wordsList = {
+  carro: ["Motor", "Freio", "Volante", "Lataria", "Gasolina"],
+  fruta: ["Banana", "Morango", "Abacaxi", "Mamão", "Laranja"],
+  corpo: ["Coração", "Boca", "Cérebro", "Língua", "Olhos"],
+  computador: ["Processador", "Memória", "Monitor", "Gabinete", "Software"],
+  cores: ["Azul", "Amarelo", "Roxo", "Verde", "Lilas"],
+  alimento: ["Arroz", "Pão", "Carne", "Queijo", "Peixe"],
+  animais: ["Leão", "Cavalo", "Gato", "Urso", "Jaboti"],
+  celebridades: ["Xuxa", "Anitta", "Silvio-Santos", "Rihanna", "Luciano-Hulk"],
+  esportes: ["Basquete", "Futebol", "Surf", "Corrida", "Hipismo"],
+  marcas: ["Nike", "Lacoste", "Adidas", "Ford", "Sony"],
+  transportes: ["Carro", "Avião", "Navio", "Jetski", "Barco"],
+  objetos: ["Agulha", "Bola", "Jarro", "Luva", "Sapato"],
+  nomes: ["Alex", "Mirella", "Hugo", "Luana", "Amanda"],
+  profissao: ["Programador", "Biomedico", "Bombeiro", "Jardineiro", "Goleiro"],
+  sorvete: ["Chocolate", "Chiclete", "Baunilha", "Napolitano", "Flocos"],
+  bebidas: ["Água", "Suco", "Refrigerante", "Leite", "Vinho"],
+};

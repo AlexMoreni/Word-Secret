@@ -1,0 +1,28 @@
+.container{
+  padding: 30px;
+  border-radius: 13px;
+  color: black;
+  background-color: aliceblue;
+  box-shadow: 20px 20px 50px#000;
+  padding: 90px;
+  animation: showStart 5s;
+}
+
+.container input {
+  font-size: 1.1em;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  outline: none;
+  display: block;
+}
+
+@keyframes showStart {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

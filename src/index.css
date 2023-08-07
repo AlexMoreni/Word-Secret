@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #080910;
+  color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  font-size: 1.25em;
+  color: aliceblue;
+  background-color: #AF42AE;
+  margin-top: 1.40rem;
+  border: 1px solid aliceblue;
+  border-radius: 10px;
+  padding: 6px 15px;
+  outline: none;
+  cursor: pointer;
+}
+
+button a{
+  color: aliceblue;
+  padding: 10px;
+}
